@@ -7118,16 +7118,16 @@
         },
         {
             "name": "prestashop/statsdata",
-            "version": "v2.1.1",
+            "version": "v2.1.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/PrestaShop/statsdata.git",
-                "reference": "0ea922363c3ee786518f7185c21104edc3525f6f"
+                "reference": "ae4d9014e337598e624a3d57448b445778981ff2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/PrestaShop/statsdata/zipball/0ea922363c3ee786518f7185c21104edc3525f6f",
-                "reference": "0ea922363c3ee786518f7185c21104edc3525f6f",
+                "url": "https://api.github.com/repos/PrestaShop/statsdata/zipball/ae4d9014e337598e624a3d57448b445778981ff2",
+                "reference": "ae4d9014e337598e624a3d57448b445778981ff2",
                 "shasum": ""
             },
             "require": {
@@ -7150,9 +7150,9 @@
             "description": "PrestaShop module statsdata",
             "homepage": "https://github.com/PrestaShop/statsdata",
             "support": {
-                "source": "https://github.com/PrestaShop/statsdata/tree/v2.1.1"
+                "source": "https://github.com/PrestaShop/statsdata/tree/v2.1.2"
             },
-            "time": "2023-01-11T10:19:56+00:00"
+            "time": "2025-01-10T14:43:37+00:00"
         },
         {
             "name": "prestashop/statsforecast",
